@@ -44,7 +44,7 @@ export default function Signup({}: Props) {
         </div>
 
         <button className="inline-flex cursor-pointer items-center justify-center lg:rounded-3xl border border-transparent bg-[#283D36] px-6 py-2 xl:py-3 text-sm font-medium rounded-lg font-poppins text-white hover:bg-gray-700">
-         <Link href="/Otp">Request OTP</Link> 
+         <Link href="/otp">Request OTP</Link> 
         </button>
 
         <div className="flex gap-2 text-xs items-center justify-center rounded-lg ">
